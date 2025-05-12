@@ -97,6 +97,10 @@
     color: white;
 }
 
+.pizza_info .pizza_process {
+    color: #A3A3A3;
+}
+
 .pizza_info img {
     transform: translateX(-30px);
 }
